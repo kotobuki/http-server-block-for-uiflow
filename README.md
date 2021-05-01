@@ -1,6 +1,8 @@
 # HTTP Server Block for UIFlow
 
-An elementary HTTP Server block for UIFlow.
+## Purpose
+
+An elementary HTTP Server block for UIFlow. Enable a client to read values from sensors connected to an M5Stack module in CSV format.
 
 ## How to use
 
